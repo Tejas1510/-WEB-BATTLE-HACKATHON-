@@ -1,5 +1,4 @@
-![DevResource](https://socialify.git.ci/Tejas1510/
--WEB-BATTLE-HACKATHON-/image?description=1&font=KoHo&language=1&owner=1&pattern=Brick%20Wall&theme=Dark)
+![DevResource](https://socialify.git.ci/Tejas1510/-WEB-BATTLE-HACKATHON-/image?description=1&language=1&owner=1&stargazers=1&theme=Dark)
 
 ## Demonstration
 
